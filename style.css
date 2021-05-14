@@ -1,0 +1,42 @@
+
+    h1 {color:#A52828;
+    border : solid;
+    margin : 20px;
+    }
+   /*{border: solid;}*/
+
+    .Header 
+    {
+        background-color:#00FFFF;
+        display : flex;
+        justify-content: space-between;
+        border: solid;
+        margin: 20;
+    }
+    
+    .Menu
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    .Footer
+    {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .SiteDescription
+    {
+        text-align: center;
+    }
+
+    .Item
+    {
+        border : solid;
+        position: relative;
+    }
+
+    a:link{color:#FF0000;}
+    a:visited{color: #008000;}
